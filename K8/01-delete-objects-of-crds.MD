@@ -1,6 +1,6 @@
-# Delete CRDs
+# Delete Objects of CRDs
 
-- This command deletes the CRDs. 
+- This command deletes Objects the CRDs. 
 - Get all the CRDs based on a group-id and delete them.
 - [Source](https://stackable.tech/en/deleting-custom-resources-in-a-kubernetes-namespace/)
 ```
