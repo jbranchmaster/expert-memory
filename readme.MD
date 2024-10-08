@@ -11,3 +11,6 @@ Tils
 
 ## Kubernetes
 - [Delete objects of CRDs](K8/01-delete-objects-of-crds.MD)
+
+## Python
+- [Simple HTTP server](python/01-simple-http-server.MD)
