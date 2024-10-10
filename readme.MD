@@ -14,3 +14,6 @@ Tils
 
 ## Python
 - [Simple HTTP server](python/01-simple-http-server.MD)
+
+## Shell
+- [PS1 variable shell appearance](shell/01-PS1-variable-shell-appearance.md)
