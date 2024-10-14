@@ -1,4 +1,4 @@
-# Shell Input Redirections
+# Shell Input Redirection
 
 # How it works
  - [Source](https://superuser.com/questions/1003760/what-does-eof-do)
