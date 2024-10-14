@@ -17,4 +17,4 @@ Tils
 
 ## Shell
 - [PS1 variable shell appearance](shell/01-PS1-variable-shell-appearance.md)
-- [Input redirection] (shell/02-Input-redirection.MD)
+- [Input redirection](shell/02-Input-redirection.MD)
